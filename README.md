@@ -1,4 +1,4 @@
-# KinBech.Com — E-Commerce Platform
+# electro-shop — E-Commerce Platform
 
 A full-featured e-commerce web app for electronics and appliances, built with PHP, MySQL, HTML5, CSS3, and vanilla JavaScript. Supports product browsing, categories, search, cart, wishlist, checkout, and user accounts.
 
