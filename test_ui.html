@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>UI Test - Verify Modern Styles</title>
+   <link rel="stylesheet" href="css/style.css?v=2.0">
+</head>
+<body>
+   <div style="padding: 50px; text-align: center; max-width: 800px; margin: 0 auto;">
+      <h1 style="color: #6366f1; margin-bottom: 30px;">Modern UI Test Page</h1>
+      
+      <div style="background: white; padding: 30px; border-radius: 15px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+         <h2 style="color: #1f2937; margin-bottom: 20px;">If you see this styled correctly, CSS is loading!</h2>
+         
+         <button class="btn" style="margin: 10px;">Modern Button</button>
+         <button class="option-btn" style="margin: 10px;">Option Button</button>
+         <button class="delete-btn" style="margin: 10px;">Delete Button</button>
+         
+         <div style="margin-top: 30px; padding: 20px; background: #f9fafb; border-radius: 10px;">
+            <p style="color: #6b7280; line-height: 1.8;">
+               <strong style="color: #6366f1;">Check these:</strong><br>
+               1. Buttons should have modern gradients<br>
+               2. Text should use Inter/Poppins font<br>
+               3. Shadows should be smooth<br>
+               4. Colors should be indigo/purple theme
+            </p>
+         </div>
+      </div>
+      
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; color: white; margin-top: 20px;">
+         <h3>Gradient Background Test</h3>
+         <p>If you see a purple gradient background, modern CSS is working!</p>
+      </div>
+      
+      <div style="margin-top: 30px; padding: 20px; background: #ef4444; color: white; border-radius: 10px;">
+         <h3>⚠️ If styles look OLD:</h3>
+         <ol style="text-align: left; display: inline-block;">
+            <li>Press <strong>Ctrl + Shift + Delete</strong> to clear cache</li>
+            <li>Or press <strong>Ctrl + F5</strong> for hard refresh</li>
+            <li>Check browser DevTools (F12) → Network tab</li>
+            <li>Look for <code>style.css?v=2.0</code> loading</li>
+         </ol>
+      </div>
+   </div>
+   
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+   <script src="js/script.js?v=2.0"></script>
+   <script>
+      console.log('Test page loaded. Check console for GSAP messages.');
+   </script>
+</body>
+</html>
+
