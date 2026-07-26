@@ -22,7 +22,7 @@ See [PROJECT_PROPOSAL.md](PROJECT_PROPOSAL.md) for the full project overview, ob
 
 1. Clone this repo into your server's web root (e.g. `htdocs` for XAMPP):
    ```bash
-   git clone https://github.com/<your-username>/kinbech-shop.git
+   git clone https://github.com/<your-username>/electro-shop.git
    ```
 2. Start Apache and MySQL from your XAMPP/MAMP control panel.
 3. Import the database:
