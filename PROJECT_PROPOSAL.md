@@ -1,8 +1,8 @@
-# Project Proposal: KinBech.Com E-Commerce Platform
+# Project Proposal: electro-shop E-Commerce Platform
 
 ## 1. Executive Summary
 
-**Project Title:** KinBech.Com - Online Electronics & Appliances E-Commerce Platform
+**Project Title:** electro-shop Online Electronics & Appliances E-Commerce Platform
 
 **Project Type:** Web-based E-Commerce Application
 
@@ -16,7 +16,7 @@
 
 ## 2. Project Overview
 
-KinBech.Com is a comprehensive e-commerce platform designed specifically for selling electronics and appliances online. The platform provides a seamless shopping experience for customers while offering robust administrative tools for managing products, orders, and customer interactions. The system is built with modern web technologies and follows best practices for security, user experience, and scalability.
+electro-shop is a comprehensive e-commerce platform designed specifically for selling electronics and appliances online. The platform provides a seamless shopping experience for customers while offering robust administrative tools for managing products, orders, and customer interactions. The system is built with modern web technologies and follows best practices for security, user experience, and scalability.
 
 ### 2.1 Project Objectives
 
@@ -624,7 +624,7 @@ projectdone/
 
 ## 20. Conclusion
 
-KinBech.Com is a comprehensive e-commerce platform that successfully implements all core features required for online retail operations. The system provides an excellent foundation for selling electronics and appliances online, with robust user and admin interfaces, secure authentication, and efficient order management capabilities.
+electro-shop is a comprehensive e-commerce platform that successfully implements all core features required for online retail operations. The system provides an excellent foundation for selling electronics and appliances online, with robust user and admin interfaces, secure authentication, and efficient order management capabilities.
 
 The project demonstrates strong technical implementation using modern web technologies and follows best practices for database design and code organization. With the recommended enhancements and security improvements, the platform is ready for production deployment and can scale to meet growing business needs.
 
@@ -643,17 +643,6 @@ The project demonstrates strong technical implementation using modern web techno
 4. Prepare for production deployment
 5. Plan for future feature enhancements
 
----
-
-## 21. Contact Information
-
-**Project Developer:** Harsh Chaudhary  
-**Institution:** NCIT College  
-**Program:** Bachelor of Engineering in Software Engineering  
-**Batch:** 2023  
-**Mentor:** Er. Ashok Basnet
-
----
 
 **Document Version:** 1.0  
 **Last Updated:** [Current Date]  
@@ -661,5 +650,5 @@ The project demonstrates strong technical implementation using modern web techno
 
 ---
 
-*This proposal document provides a comprehensive overview of the KinBech.Com e-commerce platform project. For technical details and implementation specifics, please refer to the source code and technical documentation.*
+*This proposal document provides a comprehensive overview of the electro-shop e-commerce platform project. For technical details and implementation specifics, please refer to the source code and technical documentation.*
 
